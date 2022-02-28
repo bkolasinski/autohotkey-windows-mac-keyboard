@@ -138,8 +138,8 @@ Lwin & Tab::AltTab
 ; Show source code with cmd + alt + u
 #!u::Send ^u
 
-; Split tab in VSC
+; VSC shortcuts
 #\::Send ^\
+#+p::Send ^+p
 
 #IfWinActive
-
