@@ -140,6 +140,7 @@ Lwin & Tab::AltTab
 
 ; VSC shortcuts
 #\::Send ^\
+#/::Send ^/
 #+p::Send ^+p
 
 #IfWinActive
